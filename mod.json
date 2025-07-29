@@ -1,0 +1,9 @@
+{
+	"name": "exit",
+	"displayName": "Exit mod",
+	"author": "firfaronde",
+	"description": "Exit",
+	"version": "1.0",
+	"hidden": false,
+	"minGameVersion": 136
+}
